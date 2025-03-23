@@ -2,7 +2,7 @@
 
 ![Family Photo](/img/sanbornfamily.jpeg)
 
-Hey, I’m Mitch — a Systems Administrator and IT consultant based in Utah. I work at WebGuy Internet, where we help small businesses make sense of their tech without making it more complicated than it needs to be.
+Hey, I’m Mitch — a IT Manager and IT consultant based in Utah. I work at WebGuy Internet, where we help small businesses make sense of their tech without making it more complicated than it needs to be.
 
 Most of my time is spent designing, fixing, or improving networks and systems that people rely on every day. I’ve built secure, PCI-compliant networks, set up multi-site VPNs, and deployed infrastructure that just works—without getting in anyone’s way. I’m comfortable across Windows, macOS, and Linux, and I have a particular fondness for the clean, well-integrated approach of Apple environments.
 

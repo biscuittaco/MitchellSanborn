@@ -1,6 +1,6 @@
 # About Me
 
-![Family Photo](/sanbornfamily.jpeg)
+![Family Photo](/img/sanbornfamily.jpeg)
 
 Hey, I’m Mitch — a Systems Administrator and IT consultant based in Utah. I work at WebGuy Internet, where we help small businesses make sense of their tech without making it more complicated than it needs to be.
 

@@ -1,5 +1,7 @@
 # Homelab
 
+![Server Rack](/img/serverrack.jpeg)
+
 Welcome to the Sanborn Homelab — part testing ground, part personal infrastructure, and part proving ground for projects I might roll out to clients. It’s where I experiment, break things on purpose, and keep the gears turning at home.
 
 ## Hardware

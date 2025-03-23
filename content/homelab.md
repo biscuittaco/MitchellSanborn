@@ -35,10 +35,6 @@ Here are just a few of the services currently running across the lab:
 
 Everything’s containerized where possible, with Docker and Compose managing a good chunk of the orchestration.
 
-## Automation & Backups
-
-I’ve used resources like [Helper-Scripts.com](https://helper-scripts.com), but much of the setup has been done manually to better understand the ins and outs. Proxmox handles backups with its native backup server, writing to TrueNAS over NFS.
-
 ## Goals
 
 The lab doesn’t follow a strict philosophy—just solid performance to support testing, learning, and real-world reliability. Right now, I’m working on integrating **authentik** across most services and tying it to my **Active Directory** for centralized identity via LDAP.

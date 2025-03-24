@@ -32,6 +32,7 @@ Here are just a few of the services currently running across the lab:
 - Automation: `homeassistant`, `homebridge`
 - Dev: `gitlab`, `SanbornDC`, `docker`
 - Management: `proxmox`, `pbs (Proxmox Backup Server)`, `TrueNAS`, `homepage`, `pelican-panel`
+- [📈 Check uptime status](https://uptime.sanborn.family/status/home) – Live view of my self-hosted services
 
 
 Everything’s containerized where possible, with Docker and Compose managing a good chunk of the orchestration.

@@ -2,7 +2,7 @@
 
 <a href="/mitchell-sanborn-resume.pdf" target="_blank" rel="noopener">📄 Download Resume</a>
 
-# Off-Resume Things
+# Beyond the Resume
 
 A resume is a summary, not the whole picture. This is where I keep the rest: the projects, the philosophy, and the things I've learned from doing this work for a while.
 

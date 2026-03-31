@@ -1,9 +1,17 @@
 ---
 title: "Home"
-description: "Welcome to the portfolio of Mitchell Sanborn – Systems Administrator, IT Consultant, and Tech Tinkerer based in Utah."
+description: "Mitchell Sanborn – IT Operations leader, Apple Consultant, and systems generalist based in Salt Lake City, Utah."
 ---
-I’m a IT Manager and IT consultant based in Utah. I help people make sense of their technology—whether that’s building out a secure network, streamlining onboarding, or just making sure the Wi-Fi doesn’t drop during your Monday meeting.
+I'm an IT operations leader based in Salt Lake City with 6+ years of experience 
+building and securing mixed-platform environments across Windows, macOS, and Linux.
 
-My goal is simple: make IT feel personal and genuinely helpful. No jargon, no runaround—just reliable solutions that support the way you actually work.
+My work spans network architecture, endpoint management, cybersecurity, compliance, 
+and the scripting that ties it all together. I've led teams, managed infrastructure 
+at scale, and spent enough time troubleshooting in the field to know that good IT 
+is mostly invisible. That's exactly the goal.
 
-Take a look around, and if you like what you see, let’s chat.
+I'm also an Apple Certified Support Professional and Jamf Certified Associate, and 
+the reason my organization became an Apple Consultant.
+
+If you're looking for someone who can own a technical environment end-to-end, or 
+just need a second opinion on something, feel free to get in touch.

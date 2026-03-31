@@ -2,12 +2,28 @@
 
 ![Family Photo](/img/sanbornfamily.jpeg)
 
-Hey, I’m Mitch — a IT Manager and IT consultant based in Utah. I work at WebGuy Internet, where we help small businesses make sense of their tech without making it more complicated than it needs to be.
+I'm Mitch, an IT operations leader based in Salt Lake City with 7+ years of 
+experience managing and securing mixed-platform environments for organizations 
+across healthcare, education, and hospitality.
 
-Most of my time is spent designing, fixing, or improving networks and systems that people rely on every day. I’ve built secure, PCI-compliant networks, set up multi-site VPNs, and deployed infrastructure that just works—without getting in anyone’s way. I’m comfortable across Windows, macOS, and Linux, and I have a particular fondness for the clean, well-integrated approach of Apple environments.
+Most of my time is spent on the things that keep infrastructure reliable: network 
+architecture, endpoint management, compliance programs, and the automation that 
+reduces how much any of it requires manual attention. I've designed PCI-compliant 
+networks, deployed multi-site VPNs, led MDM rollouts across Windows, macOS, and 
+mobile fleets, and responded to incidents ranging from misconfigurations to 
+ransomware recovery.
 
-I believe in keeping things simple, clean, and human-centered. I’m constantly refining workflows, improving onboarding experiences, and cutting out the clutter—whether that's in the infrastructure or the process. I use tools like Jamf, Proxmox, and Docker, and I automate wherever it makes sense using PowerShell, and Bash.
+Apple environments are a particular strength. I'm an Apple Certified Support 
+Professional and Jamf Certified Associate, with hands-on MDM experience across 
+Jamf, Addigy, and Mosyle. My investment in the Apple platform runs deep enough 
+that it led directly to my organization earning Apple Consultant status.
 
-Outside of work, I’m a new dad, gear tinkerer, and slowly winning the war on household clutter. Life's full, but it’s good.
+On the tooling side, I work regularly with Proxmox, VMware, Docker, Wazuh, 
+Huntress, and a healthy amount of PowerShell and Bash to tie it all together.
 
-At the end of the day, I don’t just care about the tech—I care about the people using it. My goal is always to make IT feel personal and helpful, and to create systems that support people’s workflows instead of slowing them down. If it makes life easier, that’s a win in my book.
+Outside of work I'm a new dad, a home cook, and someone who runs a probably 
+unreasonable homelab. It keeps the skills sharp and the curiosity alive.
+
+I care about the people on the other end of the technology as much as the 
+technology itself. Good IT should support the way people actually work, not the 
+other way around.
